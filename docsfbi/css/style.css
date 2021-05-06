@@ -1,0 +1,54 @@
+.header {
+  padding-top: 5rem;
+  background-color: #1a84db;
+}
+
+.slog {
+  color: #e2edff;
+}
+.slog1 {
+  color: #e2edff;
+}
+
+#kontak {
+  padding-top: 5rem;
+  background-color: #7be765;
+}
+
+#bar {
+  padding-bottom: 0.5rem;
+  padding-top: 0.5rem;
+  background-color: #000000;
+}
+
+#tentang {
+  padding-top: 4rem;
+}
+
+#fitur {
+  padding-top: 4rem;
+}
+
+#img1 {
+  right: 100%;
+}
+
+#carapakai {
+  padding-top: 4rem;
+}
+
+#dokumentasi {
+  padding-top: 4rem;
+}
+
+#fungsiperintah {
+  padding-top: 4rem;
+}
+
+#caradeploy {
+  padding-top: 4rem;
+}
+
+#fungsivar {
+  padding-top: 4rem;
+}
